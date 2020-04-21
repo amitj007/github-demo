@@ -15,4 +15,7 @@ The main purpose is to provide simple examples for Git training demos
 
 ## Deployment
 
+This is a simple project can be deployed on may web server.
+
 ## How to Contribute
+Contribute by answering Student's queries
