@@ -11,7 +11,8 @@ This is example to show different parts of the Git repo and various commands usi
 
 ## Purpose
 
-The main purpose is to provide simple examples for Git training demos
+The main purpose is to provide simple examples for Git training demos.
+TO help student learning git.
 
 ## Deployment
 
