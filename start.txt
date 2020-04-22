@@ -1,1 +1,2 @@
 Test Git Quick Start demo
+Adding new line from master for rebase conflict
